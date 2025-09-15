@@ -18,3 +18,5 @@ AUREA é um projeto voltado para [descrição resumida do propósito, ex: automa
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/aurea-frontend.git
+npm install
+npm run dev
